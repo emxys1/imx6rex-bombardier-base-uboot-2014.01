@@ -479,6 +479,6 @@ int board_late_init(void)
 
 int checkboard(void)
 {
-	puts("Board: iMX6 Rex\n");
+	puts("Board: iMX6 Rex by FEDEVEL Academy for BOMBARDIER\n");
 	return 0;
 }
